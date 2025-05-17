@@ -4,7 +4,7 @@
 ________________________________________________________________________________________________________________________________________________________________
 
 Note:
-Before diving into the detailed breakdown, here’s a quick overview of how market segmentation typically unfolds. These 10 steps represent the full journey—from deciding if segmentation is worth it, all the way to refining your strategy after it’s implemented.
+Here’s a quick overview of how market segmentation typically unfolds. These 10 steps represent the full journey—from deciding if segmentation is worth it, all the way to refining your strategy after it’s implemented.
 _________________________________________________________________________________________________________________________________________________________________
 
 1.	Deciding (Not) to Segment
